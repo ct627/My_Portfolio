@@ -1,9 +1,9 @@
 # My Portfolio  
 
-This is my resume and portfolio, and I am looking for a full-time job.
-My name is Chiao-Ting and I am from Taiwan. I am a recent graduate from Cal State East Bay with an M.S. in Statistics with a data science concentrate. 
-I am currently on an F-1 visa with a valid OPT. Willing and able to work remotely or relocate. 
-Professional fluency in both speaking, reading, and writing in Chinese and English.
+This is my resume and portfolio, and I am looking for a full-time job.   
+My name is Chiao-Ting and I am from Taiwan. I am a recent graduate from Cal State East Bay with an M.S. in Statistics with a data science concentrate.    
+I am currently on an F-1 visa with a valid OPT. Willing and able to work remotely or relocate.    
+Professional fluency in both speaking, reading, and writing in Chinese and English.    
 
 ## Resume    
  
