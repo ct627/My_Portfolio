@@ -9,11 +9,8 @@ Professional fluency in both speaking, reading, and writing in Chinese and Engli
 
 LinkedIn: [https://www.linkedin.com/in/chiaoting](https://www.linkedin.com/in/chiaoting)  
 GitHub: [https://github.com/ct627](https://github.com/ct627)   
-Tableau Public: [https://public.tableau.com/profile/chiaoting.tsai#!/](https://public.tableau.com/profile/chiaoting.tsai#!/)
+Tableau Public: [https://public.tableau.com/profile/chiaoting.tsai#!/](https://public.tableau.com/profile/chiaoting.tsai#!/)     
 Facebook: [https://www.facebook.com/profile.php?id=1796203055](https://www.facebook.com/profile.php?id=1796203055)
-
-## About me  
-
 
 ## Resume    
  
