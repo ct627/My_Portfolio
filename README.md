@@ -12,6 +12,18 @@ GitHub: [https://github.com/ct627](https://github.com/ct627)
 Tableau Public: [https://public.tableau.com/profile/chiaoting.tsai#!/](https://public.tableau.com/profile/chiaoting.tsai#!/)     
 Facebook: [https://www.facebook.com/profile.php?id=1796203055](https://www.facebook.com/profile.php?id=1796203055)
 
+## Project and related experiences 
+
+Python:    
+[BikeShare Prediction ML project](https://github.com/ct627/Kaggle_BikeShare)  
+[Python learning note](https://github.com/ct627/My_python_note)  
+R:    
+[Loan Profiction project](https://github.com/ct627/Loan_Prediction)  
+[data cleaning project](https://github.com/ct627/data_cleaning_project)  
+[Farmers market data visualization and ML Project](https://github.com/ct627/R_farmers_market)    
+SQL:    
+[PostgreSQL learning note](https://github.com/ct627/PostgreSQL_note)
+
 ## Resume    
  
 <img width="1044" alt="resume" src="https://user-images.githubusercontent.com/67095395/93373108-ba2b1080-f809-11ea-89c0-130255cd7023.png">
