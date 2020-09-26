@@ -27,6 +27,6 @@ SQL:
 
 ## Resume    
  
-<img width="1044" alt="resume" src="https://user-images.githubusercontent.com/67095395/93373108-ba2b1080-f809-11ea-89c0-130255cd7023.png">
+<img width="1044" alt="resume" src="https://user-images.githubusercontent.com/67095395/94325865-76e14800-ff55-11ea-941f-52244d220379.JPG">
 
 
